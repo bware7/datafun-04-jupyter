@@ -11,3 +11,27 @@ git add .
 git commit -m "initial commit"
 git push -u origin main
 ```
+
+# Install Dependencies
+```
+Add the following to requirements.txt
+
+jupyterlab 
+numpy 
+pandas
+matplotlib 
+seaborn 
+scipy
+
+Install the packages listed in the requirements file with this command:
+
+py -m pip install -r requirements.txt
+```
+
+# Edit and Execute Notebook
+
+Created FirstNotebook.ipynb and TestDrive.ipynb with some basic fuctions and cells as an example.
+
+
+
+
